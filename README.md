@@ -35,4 +35,4 @@ Sou **Engenheiro de Dados**, apaixonado por automações, scripts ninja e por tr
 
 Se quiser trocar uma ideia ou colar em algum projeto open-source, **tamo junto!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gustavoalexandermiranda/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gustavoalexandermiranda)
