@@ -48,4 +48,6 @@ Curioso por natureza, vivo fuçando Power Platform, servidores Linux, APIs, CI/C
 
 Se quiser trocar ideia, colaborar em algum projeto ou construir algo do zero, **tamo junto!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gustavoalexandermiranda)
+<a href="https://www.linkedin.com/in/gustavoalexandermiranda" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Gustavo-blue?style=flat&logo=linkedin">
+</a>
