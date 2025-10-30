@@ -1,38 +1,51 @@
 # 👋 Fala aí! Eu sou o Gustavo 🚀
 
-Sou **Engenheiro de Dados**, apaixonado por automações, scripts ninja e por transformar problemas cabeludos em soluções elegantes. Curioso por natureza, tô sempre fuçando Power Platform, servidores Linux, APIs, e metendo o louco com Bash, Python, PowerShell, DAX, ou qualquer coisa que me ajude a fazer menos manualmente.
+Sou **Especialista em Dados**, apaixonado por automações, pipelines inteligentes e por transformar gambiarra em arquitetura decente.  
+Curioso por natureza, vivo fuçando Power Platform, servidores Linux, APIs, CI/CD e qualquer tecnologia que me permita fazer mais… sem fazer de novo.
 
 ## 🛠️ Ferramentas e Tecnologias
 
-- 💾 Bancos: PostgreSQL | MySQL | SQL Server
-- ⚙️ Backend: PHP | Node.js | Python | Power Apps
-- 📊 BI: Power BI (com DAX na veia)
-- ☁️ Infra: Google Cloud | VPS (Ubuntu) | Docker | aaPanel | Nginx | cPanel
-- 🔧 DevOps: Bash | Git | Composer | Certbot | VS Code
-- 📤 E-mail: SMTP / IMAP configs na unha (Roundcube, Outlook, etc.)
+- 💾 **Bancos & Dados**  
+  PostgreSQL | MySQL | SQL Server | SQLite | SQL | DAX | Modelagem de dados
+
+- ⚙️ **Backend & Integração**  
+  Python | Node.js | PHP | REST APIs | Flask | Power Apps | Power Automate
+
+- 📊 **BI & Analytics**  
+  Power BI (DAX virar poesia 👀) | Dashboards dinâmicos | Integração com SQL, APIs e automações
+
+- ☁️ **Infra & Cloud**  
+  Google Cloud | VPS (Ubuntu) | Docker | aaPanel | EasyPanel | Nginx | Certbot | SSL
+
+- 🔧 **DevOps / Scripts**  
+  Bash | PowerShell | Git | Composer | Cron Jobs | Deploys automáticos
+
+- 📤 **E-mail & Servidores**  
+  SMTP / IMAP configurados no braço  
+  Roundcube, Outlook, DNS e MX sem choro ✅
 
 ## 🧠 O que me move?
 
-- Automatizar tudo que puder (se tiver que fazer duas vezes, boto um script no meio)
-- Aprender algo novo toda semana (mesmo que seja só quebrando a cabeça)
-- Criar soluções práticas, funcionais e com uma pitada de criatividade
-- Ser o cara que resolve o problema quando ninguém mais quer mexer
+- Automatizar tudo o que dá (se fiz 1 vez e deu certo, já crio o script)
+- Experimentar ferramentas e arquiteturas novas
+- Soluções simples, bem feitas e sem enrolação
+- Ser o cara que resolve aquele problema que “ninguém quer mexer mais”
 
-## 👨‍💻 Projetos que costumo explorar
+## 👨‍💻 Projetos que curto explorar
 
-- Scripts que facilitam a vida de quem mexe com dados ou infraestrutura
-- Automações com foco em Power Platform (Power BI, Power Apps, Power Automate)
-- Ferramentas e integrações low-code + hard-code
-- Games e bots (porque ninguém é de ferro)
+- Pipelines e scripts que aceleram o trabalho de quem mexe com dados e servidores
+- Integrações low-code + hard-code com Power Platform
+- Ferramentas úteis para vida real: ETL, APIs, bots e automações
+- Pequenos sistemas, dashboards e soluções que só precisam funcionar (bem!)
 
 ## 🧪 Curiosidades sobre mim
 
-- Já fiz deploy de servidor inteiro em bash com direito a SSL automático
-- Curto brincar de hacker ético, só pra garantir que meu sistema não vai virar festa
-- Sim, já pedi pro ChatGPT rimar com nomes tipo "Averiguei" e ele falhou miseravelmente 😂
+- Já configurei servidor do zero com Bash + SSL automático
+- Gosto de “pensar como invasor” pra garantir que meus sistemas não virem churrasco
+- Já fiz o ChatGPT rimar com palavra impossível… e deu ruim 😂
 
 ---
 
-Se quiser trocar uma ideia ou colar em algum projeto open-source, **tamo junto!**
+Se quiser trocar ideia, colaborar em algum projeto ou construir algo do zero, **tamo junto!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gustavoalexandermiranda)
